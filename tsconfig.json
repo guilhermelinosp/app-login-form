@@ -1,0 +1,22 @@
+{
+	"compilerOptions": {
+		"module": "CommonJS",
+		"target": "ESNext",
+		"moduleResolution": "Node",
+		"jsx": "react-native",
+		"lib": ["DOM", "ESNext"],
+		"types": ["react-native"],
+		"allowJs": true,
+		"esModuleInterop": true,
+		"noEmit": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"isolatedModules": true,
+		"allowSyntheticDefaultImports": true,
+		"forceConsistentCasingInFileNames": true
+	},
+	"include": ["**/*.tsx", "**/*.ts"],
+	"exclude": ["node_modules", "build", "dist", ".next"],
+	"extends": "expo/tsconfig.base"
+}
