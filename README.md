@@ -21,7 +21,7 @@
 - Clone this repository
 
 ```shell
-git clone https://github.com/guilhermelinosx/app-login-form.git
+git clone https://github.com/guilhermelinosp/app-login-form.git
 ```
 
 </br>
@@ -29,11 +29,7 @@ git clone https://github.com/guilhermelinosx/app-login-form.git
 - Start the Application in Development
 
 ```shell
-<<<<<<< HEAD
-yarn install && yarn dev
-=======
 yarn install && yarn start:dev
->>>>>>> 26fb6b2 (feat: init new project)
 ```
 
 </br>
