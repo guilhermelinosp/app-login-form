@@ -8,16 +8,6 @@
 
 </br>
 
-<div align="center">
-
-<img height="500px" src="https://raw.githubusercontent.com/guilhermelinosx/app-login-form/main/.github/image1.jpeg">
-<img height="500px"  src="https://raw.githubusercontent.com/guilhermelinosx/app-login-form/main/.github/image2.jpeg">
-<img height="500px"  src="https://raw.githubusercontent.com/guilhermelinosx/app-login-form/main/.github/image3.jpeg">
-
-</div>
-
-</br>
-
 ## Technologies used in the project
 
 - Typescript
