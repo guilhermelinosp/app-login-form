@@ -38,8 +38,7 @@ git clone https://github.com/guilhermelinosx/app-login-form.git
 - Start the Application in Development
 
 ```shell
-yarn install
-yarn dev
+yarn install && yarn dev
 ```
 
 </br>
