@@ -29,7 +29,7 @@ git clone https://github.com/guilhermelinosp/app-login-form.git
 - Start the Application in Development
 
 ```shell
-yarn install && yarn start:dev
+yarn install && yarn start
 ```
 
 </br>
